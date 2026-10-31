@@ -1,0 +1,9 @@
+{
+  "build": "3.2.2",
+  "originalRegressionTestsPassed": 63,
+  "newTestsPassed": 5,
+  "newTestCommand": "npx playwright test tests/new-review.spec.ts",
+  "production": "new-review-production.json",
+  "apk": "apk-inspection.json",
+  "androidDeviceTest": false
+}

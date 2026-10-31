@@ -1,0 +1,21 @@
+{
+  "build": "3.2.3",
+  "motion": {
+    "duration": 220,
+    "transformAfterFinish": "none",
+    "activeAnimations": 0
+  },
+  "offlineLearningAndReview": true,
+  "reloaded": true,
+  "saved": {
+    "entries": 18735,
+    "cards": 1,
+    "logs": 2,
+    "mode": "review",
+    "source": "c4995ffd-2e45-4037-ae89-8a3c5beba5f5",
+    "position": 1,
+    "deckId": "zip-deck:cet4-shuffled",
+    "reviews": 1
+  },
+  "errors": []
+}

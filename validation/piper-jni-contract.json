@@ -1,0 +1,7 @@
+{
+  "runtime": "1.13.3",
+  "oldCallbackIncompatibilityReproduced": true,
+  "compiledPluginUsesCallbackFreeGenerate": true,
+  "boundedPcmCacheTestsPassed": true,
+  "androidDeviceTest": false
+}

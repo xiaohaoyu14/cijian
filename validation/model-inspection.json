@@ -1,0 +1,17 @@
+{
+  "initializerTypes": {
+    "FLOAT": 476,
+    "INT64": 34,
+    "INT32": 1
+  },
+  "metadata": {
+    "model_type": "vits",
+    "comment": "piper",
+    "language": "English",
+    "voice": "en-us",
+    "has_espeak": "1",
+    "n_speakers": "1",
+    "sample_rate": "22050"
+  },
+  "quantizationOperators": []
+}

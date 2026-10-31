@@ -1,0 +1,37 @@
+{
+  "apk": "\u8bcd\u95f4-3.3.0-arm64-v8a.apk",
+  "bytes": 162899366,
+  "sha256": "90f8d13dfa68dfb2077958065b797ae3622dc2b08d647e912797ac12a70c44f8",
+  "abis": [
+    "arm64-v8a"
+  ],
+  "nativeLibraries": [
+    "lib/arm64-v8a/libonnxruntime.so",
+    "lib/arm64-v8a/libsherpa-onnx-c-api.so",
+    "lib/arm64-v8a/libsherpa-onnx-cxx-api.so",
+    "lib/arm64-v8a/libsherpa-onnx-jni.so"
+  ],
+  "modelFilesVerified": 360,
+  "pointReadingUsesRealtimePiper": true,
+  "builtinVocabularyEntries": 18735,
+  "builtinDecks": [
+    {
+      "name": "\u56db\u7ea7 \u00b7 \u4e71\u5e8f\u8bcd\u5e93",
+      "entryCount": 4543,
+      "sha256": "47d76472ea7b166d8b1825199daa847ca11828f7972e7aa2718eaf238aba5484"
+    },
+    {
+      "name": "\u516d\u7ea7 \u00b7 \u4e71\u5e8f\u8bcd\u5e93",
+      "entryCount": 5617,
+      "sha256": "9fb3f36e7de900a008d7abe3a16e8a3268e1ce8c9a204b46ec507132e6c14733"
+    },
+    {
+      "name": "SAT \u00b7 \u4e71\u5e8f\u8bcd\u5e93",
+      "entryCount": 8810,
+      "sha256": "2c3d2e0c0e2f753336ebb01c4f6670b4382382f279ad22de3aaa125660b4b9cc"
+    }
+  ],
+  "elfLoadAlignment": 16384,
+  "model": "en_US-lessac-high",
+  "runtime": "1.13.3"
+}

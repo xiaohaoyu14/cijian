@@ -1,0 +1,7 @@
+{
+  "model": "en_US-lessac-high",
+  "modelArchiveSha256": "8619d204c7005866fe4f420181dfa79622af6a6222389f0b0818d2af31e0db0e",
+  "onnxSha256": "1315b0b3746e9ff52f8ccc88d3d9eaa6c289001fc58951ed88c0fb3a0befe635",
+  "runtime": "sherpa-onnx-1.13.3",
+  "runtimeSha256": "243ad797a3b6e75ebbeaf7a2ab4aec0777e7d71b730685abb762a120940b07b6"
+}

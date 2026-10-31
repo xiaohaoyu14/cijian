@@ -1,0 +1,36 @@
+{
+  "sources": [
+    {
+      "file": "4 六级-乱序.txt",
+      "sourceSha256": "4a938c26f5732194330c5453a7fe28d65cf3fd7009fcdfb5bea4517b8ce48ddb",
+      "sourceBytes": 231996,
+      "valid": 5617,
+      "blank": 0,
+      "invalid": 0,
+      "duplicates": 34,
+      "issues": [],
+      "missingPos": 0
+    },
+    {
+      "file": "7 SAT-乱序.txt",
+      "sourceSha256": "2e373bf3edbe6544c35b62c9720cb946d9dc3140befa709672feb7cc2cc1b641",
+      "sourceBytes": 431887,
+      "valid": 8810,
+      "blank": 0,
+      "invalid": 1,
+      "duplicates": 76,
+      "issues": [
+        {
+          "line": 7038,
+          "text": "a. 灵巧的， 熟练的\t n.  灵巧， 机敏"
+        }
+      ],
+      "missingPos": 14
+    }
+  ],
+  "combined": {
+    "deckCount": 3,
+    "links": 18970,
+    "uniqueEntries": 18735
+  }
+}

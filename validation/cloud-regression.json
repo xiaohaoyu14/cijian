@@ -1,0 +1,17 @@
+{
+  "build": "3.3.0",
+  "fullRegressionPassed": 81,
+  "fullRegressionDuration": "1.6m",
+  "newCloudTests": 7,
+  "postSettingsFormChecks": {
+    "directlyPassed": 16,
+    "uiInitialClickTimeout": 1,
+    "targetedRetryPassed": 1,
+    "retryCommand": "npx playwright test tests/ui.spec.ts -g '桌面真实流程'"
+  },
+  "production": "cloud-production.json",
+  "servicePackage": "cloud-service-package.json",
+  "apk": "apk-inspection.json",
+  "androidDeviceTest": false,
+  "publicDeployment": false
+}

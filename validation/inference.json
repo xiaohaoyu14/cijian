@@ -1,0 +1,10 @@
+{
+  "runtime": "1.13.3",
+  "model": "en_US-lessac-high",
+  "platform": "Windows x64 CPU (not Android hardware)",
+  "sampleRate": 22050,
+  "samples": 17664,
+  "durationSeconds": 0.8010884353741496,
+  "initializationSeconds": 1.086355100007495,
+  "generationSeconds": 0.3170486000017263
+}

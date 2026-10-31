@@ -1,0 +1,16 @@
+{
+  "build": "3.2.2",
+  "offlineLearningAndReview": true,
+  "reloaded": true,
+  "saved": {
+    "entries": 18735,
+    "cards": 1,
+    "logs": 2,
+    "mode": "review",
+    "source": "ff08542d-4adb-41a6-b9a8-00053b601bda",
+    "position": 1,
+    "deckId": "zip-deck:cet4-shuffled",
+    "reviews": 1
+  },
+  "errors": []
+}

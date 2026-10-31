@@ -1,0 +1,12 @@
+{
+  "build": "3.2.4",
+  "fullRegressionPassed": 74,
+  "fullRegressionDuration": "1.5m",
+  "finalCountsClockRegressionPassed": 19,
+  "finalRegressionCommand": "npx playwright test tests/vocabulary-performance.spec.ts tests/review-plan.spec.ts tests/restored.spec.ts",
+  "finalRegressionDuration": "52.5s",
+  "production": "vocabulary-production.json",
+  "indexBenchmark": "vocabulary-index-benchmark.json",
+  "apk": "apk-inspection.json",
+  "androidDeviceTest": false
+}

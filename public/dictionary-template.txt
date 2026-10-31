@@ -1,0 +1,6 @@
+# 每行：单词  词性  中文释义
+heritage  n.  遗产
+campus  n.  校园
+culture  n.  文化
+independent  adj.  独立的
+opportunity  n.  机会

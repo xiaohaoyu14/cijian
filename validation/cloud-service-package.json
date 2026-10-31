@@ -1,0 +1,15 @@
+{
+  "artifact": "词间-云存档服务端-3.3.0.zip",
+  "bytes": 6978,
+  "sha256": "03bf2de4b5d3ecf512ac8a53caf134d2bac620204e014e857cc34c621bcd7cfc",
+  "files": [
+    "server.mjs",
+    "README.md",
+    "Caddyfile.example",
+    "package.json"
+  ],
+  "runtime": "Node.js 24",
+  "externalNpmDependencies": 0,
+  "includesCredentials": false,
+  "publicDeployment": false
+}

@@ -1,0 +1,11 @@
+{
+  "build": "3.2.3",
+  "fullRegressionPassed": 71,
+  "fullRegressionDuration": "1.5m",
+  "finalOverflowFixRegressionPassed": 13,
+  "finalRegressionCommand": "npx playwright test tests/page-motion.spec.ts tests/ui.spec.ts",
+  "finalRegressionDuration": "32.6s",
+  "production": "page-motion-production.json",
+  "apk": "apk-inspection.json",
+  "androidDeviceTest": false
+}

@@ -1,0 +1,30 @@
+{
+  "build": "3.3.0",
+  "transport": "Local HTTPS reverse proxy with self-signed test certificate trusted only by test context; not a public deployment",
+  "independentClients": 2,
+  "encryptedUpload": true,
+  "restored": true,
+  "protectionBackup": true,
+  "reloaded": true,
+  "before": {
+    "entries": 18735,
+    "cards": 0,
+    "logs": 0,
+    "daily": 17
+  },
+  "after": {
+    "entries": 18735,
+    "cards": 1,
+    "logs": 2,
+    "daily": 1,
+    "study": 1
+  },
+  "reloadedState": {
+    "entries": 18735,
+    "cards": 1,
+    "logs": 2,
+    "daily": 1,
+    "study": 1
+  },
+  "errors": []
+}

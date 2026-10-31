@@ -1,0 +1,10 @@
+// Align Capacitor's subprojects with the tested Android Gradle Plugin.
+allprojects {
+    buildscript {
+        configurations.classpath.resolutionStrategy.eachDependency {
+            if (requested.group == 'com.android.tools.build' && requested.name == 'gradle') {
+                useVersion '8.7.3'
+            }
+        }
+    }
+}

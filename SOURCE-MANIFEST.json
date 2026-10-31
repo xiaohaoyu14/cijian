@@ -1,0 +1,598 @@
+{
+  ".gitattributes": {
+    "bytes": 9,
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+  },
+  ".gitignore": {
+    "bytes": 372,
+    "sha256": "61061d71fa3750547a6662a64b3986ce8dd5ffab30238f47835edfa24e419973"
+  },
+  "3 四级-乱序.txt": {
+    "bytes": 293401,
+    "sha256": "b6ef93b392837bfad92467ed6a8b3f22da6caf07fcfe8858c4f9eccb72069835"
+  },
+  "4 六级-乱序.txt": {
+    "bytes": 231996,
+    "sha256": "4a938c26f5732194330c5453a7fe28d65cf3fd7009fcdfb5bea4517b8ce48ddb"
+  },
+  "7 SAT-乱序.txt": {
+    "bytes": 431887,
+    "sha256": "2e373bf3edbe6544c35b62c9720cb946d9dc3140befa709672feb7cc2cc1b641"
+  },
+  "AGENTS.md": {
+    "bytes": 3723,
+    "sha256": "9b731415e7f208bbc40391ee8cbf10287ff3f0fbbe6a2c4d5aedf4c4cd0cc307"
+  },
+  "README.md": {
+    "bytes": 22261,
+    "sha256": "41d45eb89a303c1f3e7d84bfc16b24d4befdb5fbcd17f63b1d4a447595d41073"
+  },
+  "THIRD_PARTY_NOTICES.txt": {
+    "bytes": 16706,
+    "sha256": "9eeab1bbb2c9745eb38778fc41f6e802ed3c15208d6a4048b00f80cf36597029"
+  },
+  "android/.gitignore": {
+    "bytes": 1824,
+    "sha256": "065e4a92a240fe11a0ea230491ad9dabef143f5fd5a3e6884ad6f0395666a971"
+  },
+  "android/app/.gitignore": {
+    "bytes": 26,
+    "sha256": "99c54e51ee601a60fbde8016b2cbf717483bc2e92773be86c9247d02a7fa6ea4"
+  },
+  "android/app/build.gradle": {
+    "bytes": 2159,
+    "sha256": "8dde0958b0a72da120f98cf343febd971d533dd2846b89c1fc1ccef6083fad59"
+  },
+  "android/app/capacitor.build.gradle": {
+    "bytes": 468,
+    "sha256": "3be6362996327cc275e75eb90b6172f73e8bd6f41f345238e78bd13dcfbaccf1"
+  },
+  "android/app/proguard-rules.pro": {
+    "bytes": 751,
+    "sha256": "1cf8c57e8f79c250b0af9c1a5a4edad71a5c348a79ab70243b6bae086c150ad2"
+  },
+  "android/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java": {
+    "bytes": 774,
+    "sha256": "ff50b4c110a7434312f9af54171f9e8523b015836f707c9b387b76d4c38a97f8"
+  },
+  "android/app/src/main/AndroidManifest.xml": {
+    "bytes": 1486,
+    "sha256": "ab8f75d5354f87b7a77eff2f992dbc28744e0a4af3a0173dbe832075d036432f"
+  },
+  "android/app/src/main/java/cn/cijian/vocabulary/MainActivity.java": {
+    "bytes": 311,
+    "sha256": "29f9ac8de9e3fc74f665c49314f2a839c9f9915f82e14dec875e5ded199e6466"
+  },
+  "android/app/src/main/java/cn/cijian/vocabulary/PiperAudioCache.java": {
+    "bytes": 1136,
+    "sha256": "1e6622bdcd6cc386de322fd7ec3c511440243e64f6f2c06ab2c09d1823fe0487"
+  },
+  "android/app/src/main/java/cn/cijian/vocabulary/PiperTtsPlugin.java": {
+    "bytes": 12646,
+    "sha256": "a6e3ab7b01f245eb6428a35c997009b39ff28e832df33f473320ff4cfc09c751"
+  },
+  "android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml": {
+    "bytes": 1880,
+    "sha256": "a8514094f754b099d3e55ce1d6e0b2de79db418b2eeacb0fc2a6bb0bfadef221"
+  },
+  "android/app/src/main/res/drawable/ic_cijian.xml": {
+    "bytes": 617,
+    "sha256": "41afc8aa4f4b9ceb1efcc6e82e18c15e8804cd45fa31e3b19cd4e6a4337fd8e0"
+  },
+  "android/app/src/main/res/drawable/ic_launcher_background.xml": {
+    "bytes": 5606,
+    "sha256": "718ba51adf166bb55c3e9936bb8199a0148457f7f0191aaa2f37a94f3159d6ec"
+  },
+  "android/app/src/main/res/layout/activity_main.xml": {
+    "bytes": 535,
+    "sha256": "5d770feb791313b947020cbfc57e5c733c556dac5e9e49261a1190e527073253"
+  },
+  "android/app/src/main/res/values/ic_launcher_background.xml": {
+    "bytes": 120,
+    "sha256": "cd40bafe618ff506f4088778b135cb4faa15f25e0c9b475e22d730c74b7be115"
+  },
+  "android/app/src/main/res/values/strings.xml": {
+    "bytes": 292,
+    "sha256": "0ec03a49491727987d7ec100f7b1865d56d10ed1c5960f9120aedbdbcf2fd041"
+  },
+  "android/app/src/main/res/values/styles.xml": {
+    "bytes": 1004,
+    "sha256": "b521f27ab6774fa2763c65a23e12a3f7a963381a861d02b424a95e1c69652526"
+  },
+  "android/app/src/main/res/xml/file_paths.xml": {
+    "bytes": 224,
+    "sha256": "5abf8f4cef00c12223fc05ce0639f06d2163ee6a0deb0bc832fe229d055c837f"
+  },
+  "android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java": {
+    "bytes": 402,
+    "sha256": "d4045ae8fac1f0807e6b24eb34e68409a9a235df9d1a3f896fb8c9a49424363d"
+  },
+  "android/build-local.init.gradle": {
+    "bytes": 334,
+    "sha256": "4a7c80297bef18e21af2a9c6a3f227a992a32218f3ab2d5bdbc1ad8e3e5d73b7"
+  },
+  "android/build.gradle": {
+    "bytes": 609,
+    "sha256": "c5b1a0ee778559a0263c2291537f8f84298465ec07d79ca10edf95abb9289675"
+  },
+  "android/capacitor.settings.gradle": {
+    "bytes": 466,
+    "sha256": "83d3a2961dfc3034f62def6ef37f0ea5a9c3f11937f90ce3dc593f8096b77268"
+  },
+  "android/gradle.properties": {
+    "bytes": 987,
+    "sha256": "3bab15c5b8bc4c2f4b6cf525497d15ad4abca53a460e6dd2eb0f0135817d31e6"
+  },
+  "android/gradle/wrapper/gradle-wrapper.jar": {
+    "bytes": 63375,
+    "sha256": "a8451eeda314d0568b5340498b36edf147a8f0d692c5ff58082d477abe9146e4"
+  },
+  "android/gradle/wrapper/gradle-wrapper.properties": {
+    "bytes": 257,
+    "sha256": "d5c23e3dcdf30974a50af37d042b5d8692159c25754da5aebe0466135bfa2b70"
+  },
+  "android/gradlew": {
+    "bytes": 8527,
+    "sha256": "e0108761fee312b7b373ee96c0870cab5c167e664ac507776814b1d59e9b3bad"
+  },
+  "android/gradlew.bat": {
+    "bytes": 2868,
+    "sha256": "8e327fcb99d29ce0fe3ee2fec6e6a25de815a2df83a6a44a553dea89ffc92955"
+  },
+  "android/settings.gradle": {
+    "bytes": 208,
+    "sha256": "6ce098d15ebd69b44c4ecd786bca1bdc366340d2459b2af4d7bb0ab317aa9669"
+  },
+  "android/variables.gradle": {
+    "bytes": 511,
+    "sha256": "11f94a4830f1cb14d4853dd13b637206d647265b44c97519279b5cef0fa49099"
+  },
+  "capacitor.config.ts": {
+    "bytes": 266,
+    "sha256": "42e96f23cbbb3c503c8b439a5ae11ff2a69ded3c7c2fed2559a9f18d512a06bb"
+  },
+  "cloud/Caddyfile.example": {
+    "bytes": 55,
+    "sha256": "c3425aacfeac0fc5d45738856f6ae950aea855d78e11a8ee7d1c349d30a0c4f0"
+  },
+  "cloud/README.md": {
+    "bytes": 5916,
+    "sha256": "1cc4abf433b5a56ddf4af6515be1487c8ec7649c720ec47427b1acb5b3dc4918"
+  },
+  "cloud/package.json": {
+    "bytes": 178,
+    "sha256": "2d3bae5b7f7fbdeb0c9452a26f0221e974a5e5ab7d6975f436a91598b0d0959f"
+  },
+  "cloud/server.d.mts": {
+    "bytes": 247,
+    "sha256": "2446bee872ac084a22767ee767f146eff6c2fd53e567510415caea5757b72d7d"
+  },
+  "cloud/server.mjs": {
+    "bytes": 7726,
+    "sha256": "5a274e145c05c6d6c649857386f25684c788545a3e78c5f280e151cb10c5be2a"
+  },
+  "content.lock.json": {
+    "bytes": 1342,
+    "sha256": "ef3974a151d60daec4444af1a6e6f5809aa3f61ec6d56c40a6a3d5f41bb6bd4d"
+  },
+  "docs/Piper模型与路径.md": {
+    "bytes": 1547,
+    "sha256": "e1a8039869ac0ea3567ad4b683905d30707d6a7e447cf0ac2aae4d15b06f5b2b"
+  },
+  "docs/三词库交付-3.1.0.md": {
+    "bytes": 3543,
+    "sha256": "e8a01087bd17030fb6eaa71cfef2d86d7682c1ffe3eb07c923cf20b0fa5adc8f"
+  },
+  "docs/交互动效第一步-3.2.1.md": {
+    "bytes": 4200,
+    "sha256": "db4d5770dfb179371d4e216cee5cff25fe587c7a8d11eedba45e6249d9eb787e"
+  },
+  "docs/复习模块交付-3.2.0.md": {
+    "bytes": 6599,
+    "sha256": "615774584ba3a352b4a80065c4c512a4fc02b104f6369ac18dfc97addd96d592"
+  },
+  "docs/复习模块竞品调研与设计.md": {
+    "bytes": 8086,
+    "sha256": "5a9f67df1713ca703f7e200babddecaec8ac3e09efe0c7b9d2e8bc20d1cb5405"
+  },
+  "docs/手动云存档-3.3.0.md": {
+    "bytes": 6317,
+    "sha256": "b3078661f71211fe2b1d924f65623f064ade74d0b60d199685d68034c0831c7b"
+  },
+  "docs/新词即时复习-3.2.2.md": {
+    "bytes": 3332,
+    "sha256": "baaeda5b42a6765ec95e4ea7cc1f9b72c9ba2c140137b3dabdd22316f9104c37"
+  },
+  "docs/第三方依赖.md": {
+    "bytes": 1815,
+    "sha256": "14174fbbf92ca63ec8d412d816e7f84d82d96beedcf7190c8275671a3b0bc0ad"
+  },
+  "docs/词库分页与性能-3.2.4.md": {
+    "bytes": 4341,
+    "sha256": "adc837986688f731319b8718aa509e4ae5a7043928e94467803dbae4ae92652c"
+  },
+  "docs/词库格式.md": {
+    "bytes": 4918,
+    "sha256": "cedb005709e1b0ed21c15730ae2dacaca4670234da0cf721d48c07de31c94655"
+  },
+  "docs/语音提速-3.0.2.md": {
+    "bytes": 1610,
+    "sha256": "09fc64127105b52d84cf2bd7ae88ca603f13c98b2067de8c021dfaeef2cddc66"
+  },
+  "docs/语音闪退修复-3.0.1.md": {
+    "bytes": 2796,
+    "sha256": "f4a6fdf4dd176caa33c5a2fa42b90d26c38011348183cdc9334234a145c77a98"
+  },
+  "docs/页面转场与按压反馈-3.2.3.md": {
+    "bytes": 3609,
+    "sha256": "a52e868278ad6eee96be54831910982171df8b4a6d01155fba1d2de5f73d04c5"
+  },
+  "docs/首页选择词库-3.1.1.md": {
+    "bytes": 1752,
+    "sha256": "47d4389ed40b2c06c5a7352a455d6ce79daeebf27854fc8ff53379aa1b2ba193"
+  },
+  "docs/验收报告.md": {
+    "bytes": 6109,
+    "sha256": "f49197afb10402ad5dd24ae79bcff71d71d1d2f7bca218d82c0f86b8438dac4c"
+  },
+  "index.html": {
+    "bytes": 669,
+    "sha256": "46028d5edb6dc09809b2a34d07888baf10f29e7a962c08363c541aa7d80ae110"
+  },
+  "models.lock.json": {
+    "bytes": 340,
+    "sha256": "00399d5e37e01d8be1ca3e7653aef69009b131e62dcab5e8ae14fb7873af59c0"
+  },
+  "package-lock.json": {
+    "bytes": 90740,
+    "sha256": "143f4c67d227ce77e5a25e31d972103ca90e9172bb10f8862d47ee89a8c97481"
+  },
+  "package.json": {
+    "bytes": 1389,
+    "sha256": "a6f03d57cf3320c1fd4680178869dbd655715731a649aed00dd144fddffb810d"
+  },
+  "playwright.config.ts": {
+    "bytes": 691,
+    "sha256": "fd32d58179749923154db4374dbc4cf8ba6d89ebfb3e0249d0bf7afd3e1ea9f5"
+  },
+  "public/builtin-cet4.pack": {
+    "bytes": 216597,
+    "sha256": "47d76472ea7b166d8b1825199daa847ca11828f7972e7aa2718eaf238aba5484"
+  },
+  "public/builtin-cet6.pack": {
+    "bytes": 430278,
+    "sha256": "9fb3f36e7de900a008d7abe3a16e8a3268e1ce8c9a204b46ec507132e6c14733"
+  },
+  "public/builtin-sat.pack": {
+    "bytes": 708979,
+    "sha256": "2c3d2e0c0e2f753336ebb01c4f6670b4382382f279ad22de3aaa125660b4b9cc"
+  },
+  "public/dictionary-template.txt": {
+    "bytes": 153,
+    "sha256": "ed0fb788ac8d6014d4db1a3ce49aac4b3ffe421969fe9dabe7bf53333718cb32"
+  },
+  "public/sample-media.pack": {
+    "bytes": 124579,
+    "sha256": "6cea7c72b728464b1b2d0d8d11adc6845ca14b9eb28c57e906ae5aaec69db520"
+  },
+  "scripts/build-apk.ps1": {
+    "bytes": 3251,
+    "sha256": "155a67d24d223dba8ccd0a62d94d67f2473728026d8faee164b9729b876e20cf"
+  },
+  "scripts/prepare-builtin-dictionaries.mjs": {
+    "bytes": 2557,
+    "sha256": "a6c66ce360b0ec4cab477f765f0b20d4eed128ad86e53cc6b55b837af2b682dd"
+  },
+  "scripts/prepare-piper.py": {
+    "bytes": 2467,
+    "sha256": "819bffce8393daf456d5ebd69d6a86d54a0243c2d8db10464b2123b0eba8866a"
+  },
+  "scripts/validate-piper-inference.py": {
+    "bytes": 1608,
+    "sha256": "56956157ad6e01f9ce121b023944e366538af14198b265daa0b19cdf9bb0a1e8"
+  },
+  "scripts/verify-apk.py": {
+    "bytes": 2991,
+    "sha256": "9307b946175ff3784f72644f5a93398235d8323ef5f8b7137b866ac3f22bf965"
+  },
+  "scripts/verify-piper-assets.py": {
+    "bytes": 1224,
+    "sha256": "56806d80b223efb316c76939397077b200743cea6b255265a2d730671841816a"
+  },
+  "scripts/verify-piper-jni.py": {
+    "bytes": 2215,
+    "sha256": "82b0ccde3ae9c8ffd4b9e4943294984af88f2b522a8c3fd8a5fbea417f674f5a"
+  },
+  "src/action-gate.ts": {
+    "bytes": 1526,
+    "sha256": "bcacaad758d92e434105437417b7d9bf03766806819b77532c13e850c3ca79a7"
+  },
+  "src/archive.ts": {
+    "bytes": 3217,
+    "sha256": "9efd1107b684eab517207ac90b7c7e1f48f7e4ba16caa8789ee83bd49c1dc09d"
+  },
+  "src/backup-ui.tsx": {
+    "bytes": 12031,
+    "sha256": "c7ae9b3825ccc8a7b30f2c62cf6d18436e073862afb55bd1b56e840981748735"
+  },
+  "src/builtin.ts": {
+    "bytes": 1533,
+    "sha256": "d1d47a9f548352db4f16457442115432a5c8c0c22f49c94eb9846651eccde5e6"
+  },
+  "src/cloud-client.ts": {
+    "bytes": 8026,
+    "sha256": "bbf40565548090c4d8cbce7a9565106f60fa537e21e5b9f977b0859e52c1ed11"
+  },
+  "src/demo.ts": {
+    "bytes": 4637,
+    "sha256": "b2f8323a6e0de427a07161c52ea81324ab47d46a8ef6185fb659c5959773e3a0"
+  },
+  "src/dictionary.ts": {
+    "bytes": 3501,
+    "sha256": "9456036df8b918ad563034e1f3398b9fb33e8bd800b0ee89e1b86bd9ff3a8559"
+  },
+  "src/exam.ts": {
+    "bytes": 6856,
+    "sha256": "4a27099914f16d284370520b555822cd4ea8de7bf0a89f1105f2e4a083d9b946"
+  },
+  "src/exams-ui.tsx": {
+    "bytes": 32448,
+    "sha256": "ddf7b1c57e3ca4c83eab0ff12b789ce336ff76f23842da466c599d63480097bd"
+  },
+  "src/learning.ts": {
+    "bytes": 5238,
+    "sha256": "b741461a9aa7555d4306c17c3b4464c2a3be6cadce80f036e2fe7da653465657"
+  },
+  "src/library.ts": {
+    "bytes": 21012,
+    "sha256": "a637c5c242dd923f9cb897691b4fc02143ea2bb676ca8364e0e36c0d9a233327"
+  },
+  "src/main.tsx": {
+    "bytes": 8191,
+    "sha256": "a250a139478d4ee17254654096defc091961ed0032daff1148b62fbae8869045"
+  },
+  "src/media.tsx": {
+    "bytes": 4735,
+    "sha256": "553e37305d270050c5f94e80b5989cc7073fe5515cb99f58fbce12f6c9f9b28f"
+  },
+  "src/overview.tsx": {
+    "bytes": 23643,
+    "sha256": "3e56cd94f77347a9174ea684bfa20257baae8a0c295e133f11020d096cf7fe6e"
+  },
+  "src/pronunciation.tsx": {
+    "bytes": 2109,
+    "sha256": "e740b3277fe0989dbf08bc3afe607f9087f05653fc2ac9783c45ccb54e59d018"
+  },
+  "src/review-plan.ts": {
+    "bytes": 5733,
+    "sha256": "f1375be84ec8ff94bd3a761aa51867692fa5d6fd5863219f8c1a00beccfe9ecd"
+  },
+  "src/reviews-ui.tsx": {
+    "bytes": 15394,
+    "sha256": "a6ed1076e3a85187554bbf15d4a6fa094229ee59ef65762174a0dbf35e2707e2"
+  },
+  "src/scheduler.ts": {
+    "bytes": 4184,
+    "sha256": "4d8f2d82e8924b185025da7d8b5d646f0793809b49fc9d57a6f48a0d3178f082"
+  },
+  "src/speech.ts": {
+    "bytes": 967,
+    "sha256": "fbd341f89619bf61610eedc997b9d37e27a3897030152a84be9326f4156db12b"
+  },
+  "src/store.ts": {
+    "bytes": 5076,
+    "sha256": "386be505478cdefca9c9c6da7bf6f45ccf41a3df8abfa3f292b4201d28a833e0"
+  },
+  "src/study-actions.ts": {
+    "bytes": 1902,
+    "sha256": "9128b5d5fc35f9311a1265674ad21053aeced224e57ea84abe17f83713f508f5"
+  },
+  "src/study.tsx": {
+    "bytes": 9066,
+    "sha256": "409ceafd78e3e55c0ad7913f7dbf2223946e0db3e4e6be9217fdfd19eb851a41"
+  },
+  "src/style.css": {
+    "bytes": 51568,
+    "sha256": "4f63030f372b6f67db23d47b9b2fc0b6eb3e07edad94d54bfe6b7534c6ba3acc"
+  },
+  "src/txt-import.ts": {
+    "bytes": 1344,
+    "sha256": "0dcf53bd7c1a6f7057def311e949ad7e7223f26c5be2aac6172da7339b36a4dd"
+  },
+  "src/types.ts": {
+    "bytes": 4240,
+    "sha256": "28dcfba65798d8b764a4e4f807fb711f28a6b713938c38fdc0ee068d1f83e80d"
+  },
+  "src/use-action-gate.ts": {
+    "bytes": 260,
+    "sha256": "89f5e776b062ded4ac5073acc6c3914a0405e8abe504904405542f7ac7614257"
+  },
+  "src/use-page-motion.ts": {
+    "bytes": 1521,
+    "sha256": "870771c4a13a0d2cbf2c9f10774bb6fa404e119ab34e2e9b45653482ab47f0b6"
+  },
+  "src/vault.ts": {
+    "bytes": 1692,
+    "sha256": "546a6dc16a22c8916b7871198d8badfa6eb453f3d93b3c2ef3dcb4baa0523add"
+  },
+  "src/version.ts": {
+    "bytes": 113,
+    "sha256": "f5c443653222c5fdf227f862274064dba9e47e41ebf9a86f799324652a90c08d"
+  },
+  "src/vite-env.d.ts": {
+    "bytes": 38,
+    "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+  },
+  "src/vocabulary-index.ts": {
+    "bytes": 1945,
+    "sha256": "2724418083a227cc70d47e44779d1210730449139a6fcb5f6493572f50b49335"
+  },
+  "src/vocabulary.tsx": {
+    "bytes": 37733,
+    "sha256": "073e5b25c1dbf1ab54d885ae2bfe102f0c5afeb2404cc934d63312dba8247ce4"
+  },
+  "tests/cloud-save.spec.ts": {
+    "bytes": 15873,
+    "sha256": "206baa4bce54ba45cec2679e7063cd18dd2a764f881be0ea2ed31dafa4dce079"
+  },
+  "tests/core.spec.ts": {
+    "bytes": 11696,
+    "sha256": "c05b6eb760c63495be28b419d0800c75c4026fd475c84c0b415b77d5f641c01e"
+  },
+  "tests/dictionary.spec.ts": {
+    "bytes": 1793,
+    "sha256": "275729a0a59e502aa271339d0eb4d7a43a55f2028d402832254d83742d1118ba"
+  },
+  "tests/media.spec.ts": {
+    "bytes": 6082,
+    "sha256": "6df4999b05ba584c3a2e6c3b98c776ff2027c86af0b3fb99e761ffbdf9e06289"
+  },
+  "tests/native/PiperAudioCacheTest.java": {
+    "bytes": 1178,
+    "sha256": "16c32411779be788fffd6de3b9e6aa5ee7846dce082d607f8c4bb4bd29444441"
+  },
+  "tests/native/PiperCallbackContract.java": {
+    "bytes": 878,
+    "sha256": "0195202f2849ec5df11b1b248e79602fffb26f0924440196b14553b625fdaf6f"
+  },
+  "tests/new-review.spec.ts": {
+    "bytes": 6438,
+    "sha256": "b3a65f2944f692b161ed396d6aa2b1a1d7d4fbf4f4ef13de340b2094a7fbd6c5"
+  },
+  "tests/page-motion.spec.ts": {
+    "bytes": 4601,
+    "sha256": "7c915eceff0ef16f83cd3655b69c09a780a3a0afe32aa678fc16d4cd57b402c2"
+  },
+  "tests/restored.spec.ts": {
+    "bytes": 10706,
+    "sha256": "c125469dd20dbf091560f443860d50cc8f7aa335129a05609fd159ba49a4d85a"
+  },
+  "tests/review-plan.spec.ts": {
+    "bytes": 12163,
+    "sha256": "dc8385a04009e605ecf7f0f38045a2d113704b4ba8eed3e63c8b0284f19ae5e8"
+  },
+  "tests/speech-preload.spec.ts": {
+    "bytes": 1559,
+    "sha256": "c75077411249beff0000b100bafc1bf8e288a56eb9f8c662329ea65466f9090d"
+  },
+  "tests/study-decks.spec.ts": {
+    "bytes": 4957,
+    "sha256": "fc4e9ee019e01f485c637c25db20366c8447c4fafb980db2a445128d57e06cbf"
+  },
+  "tests/study-interaction.spec.ts": {
+    "bytes": 7385,
+    "sha256": "4d8954fb1715d69c620285a89a0a7854a5fa1e5aa525020abac4f90018e565b1"
+  },
+  "tests/three-decks.spec.ts": {
+    "bytes": 4959,
+    "sha256": "48ddf283fbb9b677b33c4affb712b1751e75032c723c9d22572767c00668b829"
+  },
+  "tests/ui.spec.ts": {
+    "bytes": 14625,
+    "sha256": "f5add1fb09c0de1387c9c39264fb63b5af01a513200ea5f5a0ce8b0523f2dfeb"
+  },
+  "tests/vocabulary-performance.spec.ts": {
+    "bytes": 5763,
+    "sha256": "e32740a6cc1878990190c66afba71718d500db10970926284f394dbb3910ff50"
+  },
+  "tsconfig.json": {
+    "bytes": 374,
+    "sha256": "22fa4a8ea1151b20718482d12328d6c19f4505471c843fbf068290eac85d49d6"
+  },
+  "validation/apk-inspection.json": {
+    "bytes": 1177,
+    "sha256": "1eb9b0a2d7d3937322d8a076110bb003f6c13ae0c65f83d5cd81a19918bf0f73"
+  },
+  "validation/builtin-conversion.json": {
+    "bytes": 816,
+    "sha256": "b9185543cca90b71a5e83fa3fc9ab1eb2f2db51ff2176118f26c759eccba6182"
+  },
+  "validation/cloud-production.json": {
+    "bytes": 592,
+    "sha256": "8b658654ff1ccaaea967a5c4f7719bbf94c0d42f89547a1e78e613dea01a38ce"
+  },
+  "validation/cloud-regression.json": {
+    "bytes": 514,
+    "sha256": "06c6b4e5e94cf2e5d5a4d4e33628fcc185f773351d92a646311b502e3a59b5c5"
+  },
+  "validation/cloud-service-package.json": {
+    "bytes": 383,
+    "sha256": "2bab5bdc788ea455c15314e6e2d945fb11b5b703c99a6f944367d0f5e91b4237"
+  },
+  "validation/inference.json": {
+    "bytes": 295,
+    "sha256": "5da9ad99a8f0430714334000a69eb835bf9c376250016dc56297b6d90935fc96"
+  },
+  "validation/model-inspection.json": {
+    "bytes": 321,
+    "sha256": "2204a8a09f85a6811323b0a411d6f1a80bc1be6a153ccae9d810c75677250989"
+  },
+  "validation/new-review-production.json": {
+    "bytes": 317,
+    "sha256": "7c24c832489e92c208081ec2420b24b94635fd887d3b861ed9937408647779b0"
+  },
+  "validation/new-review-regression.json": {
+    "bytes": 268,
+    "sha256": "159e90637b9217e1c4d53a25f6a33790faf2ae884a8739bf6570b220a68de18b"
+  },
+  "validation/page-motion-production.json": {
+    "bytes": 419,
+    "sha256": "6a0705148215595b022dd8524e6caec46d7a837285450cbb93171a6bed3687da"
+  },
+  "validation/page-motion-regression.json": {
+    "bytes": 381,
+    "sha256": "d198ea76766952fb197f4f04c1153df9f5690442751fdc614e9897e09b41794e"
+  },
+  "validation/piper-jni-contract.json": {
+    "bytes": 197,
+    "sha256": "2d7d261c021fe6b58578896b3c8fc9f2f19145f2f08ffef60be0901087136347"
+  },
+  "validation/production-smoke.json": {
+    "bytes": 267,
+    "sha256": "e8a15712653cb2cd667a91e8478550648727e3420e5a50d8c1c99592f7b6a60f"
+  },
+  "validation/three-deck-test.json": {
+    "bytes": 162,
+    "sha256": "545085ae1b1741ead9b9de687422aafa30be7126040655bb78f4752ebc9934ae"
+  },
+  "validation/tts-thread-benchmark.json": {
+    "bytes": 398,
+    "sha256": "1b59db644e66b0335ba3ded3555a6a88ee4727e71bda014ccf8361969d54c63c"
+  },
+  "validation/vocabulary-index-benchmark.json": {
+    "bytes": 214,
+    "sha256": "536c5d0fd8c9cfa28b391efdfad68df4ae944f973a0d6bde5a7fda61e2f2e007"
+  },
+  "validation/vocabulary-production.json": {
+    "bytes": 487,
+    "sha256": "f80c2bee0a4ed4f4133069746e1c9323fdc912efc5fcde86ab9fd97c2b3c7211"
+  },
+  "validation/vocabulary-regression.json": {
+    "bytes": 479,
+    "sha256": "40c00f3b60f74490d172bdb59773f5fe3e5d4f729ea6e0549c1afc94aa0d8d54"
+  },
+  "vite.config.ts": {
+    "bytes": 328,
+    "sha256": "568db760843701cd686a39e55e3f9e5e31efb6ad0839bfae994d212162b7770d"
+  },
+  "交接日志.md": {
+    "bytes": 20297,
+    "sha256": "04584a965482b52bc5bc075ef290bebe770ca7b0e03b06048e6038297f0c580d"
+  },
+  "启动桌面版.bat": {
+    "bytes": 110,
+    "sha256": "ed6d7367d573c0d363284c6096743e67061b4db23dcd7c4536761a02e44b053e"
+  },
+  "四级 · 乱序词库.zip": {
+    "bytes": 216597,
+    "sha256": "47d76472ea7b166d8b1825199daa847ca11828f7972e7aa2718eaf238aba5484"
+  },
+  "工作日志汇总.md": {
+    "bytes": 2414,
+    "sha256": "0602e396838812671aa9fbef46034ba276caf460e4e76c6e2e4ebafe04ecc2b5"
+  },
+  "源码包说明.md": {
+    "bytes": 3524,
+    "sha256": "c76cbde65655ae173a48342348ee03b7cadf240ba05322079c098baf8fea49ca"
+  }
+}

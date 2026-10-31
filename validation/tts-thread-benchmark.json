@@ -1,0 +1,17 @@
+{
+  "platform": "Windows CPU, not Redmi K80",
+  "results": [
+    {
+      "threads": 1,
+      "loadSeconds": 0.8480922000017017,
+      "coldGeneration": 0.26817309999023564,
+      "warmMedian": 0.3451303499750793
+    },
+    {
+      "threads": 2,
+      "loadSeconds": 0.7759029000008013,
+      "coldGeneration": 0.13105080000241287,
+      "warmMedian": 0.18860190000850707
+    }
+  ]
+}
