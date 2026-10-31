@@ -4,7 +4,7 @@
 
 ## 下载与安装
 
-[下载安卓安装包 v3.3.0](https://github.com/xiaohaoyu14/cijian/releases/download/v3.3.0/cijian-3.3.0-arm64-v8a.apk) · [查看所有版本](https://github.com/xiaohaoyu14/cijian/releases)
+安卓APK附件尚待上传，当前尚无可用的公开安装包下载。[查看发行版页面](https://github.com/xiaohaoyu14/cijian/releases)。源码现已公开，可按下文说明构建。
 
 仅支持arm64-v8a、64位安卓设备，最低Android7/API24。原签名旧版本可以直接覆盖安装，勿卸载或清除数据。iOS版尚未完成，APK不能用于iPhone。
 
